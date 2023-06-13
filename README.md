@@ -1,9 +1,8 @@
+# Formulário
 
-# Footer responsivo
 
-
-Projeto de um footer responsivo utilizando HTML e CSS (com FLEXBOX e GRID)
+Projeto de um Formulário com Modo DARK e LIGHT utilizando HTML, CSS (com FLEXBOX) e JS
 
 IMPORTANTE - O código desenvolvido não é de minha autoria, apenas fiz o passo a passo com a criadora, portanto todos os créditos irão para ela. Link do vídeo abaixo.
-https://www.youtube.com/watch?v=SUFzgCwJZkk&list=PLlU98Dzuy3UEhPtTnqJstyEf-9kV0wctj&index=81&ab_channel=LarissaKich
+https://www.youtube.com/watch?v=LOjQYWRJmbk&t=9s&ab_channel=LarissaKich
 
